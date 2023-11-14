@@ -2,5 +2,3 @@
 Testing01
 Build
 test.
-release.
-.
